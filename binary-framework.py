@@ -56,6 +56,8 @@ elif option == "2":
     optionA = input("binary-framework :: ~ ")
     if optionA == "1":
         print("")
+        print(Fore.CYAN + "[*]" + Fore.WHITE + ' Digite utilizando "https://URL" ou se for http - "http://URL" - Logicamente sem as aspas.')
+        print("")
         op = input(Fore.CYAN + "[*]" + Fore.WHITE + " URL: ")
         r = requests.get(op)
         print("")
