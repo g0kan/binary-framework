@@ -13,3 +13,5 @@ Foi criada com o contexto de aprendizagem porém, depois vi que queria compartil
 -> Caso dê algum erro em relação a requerimentos instale utilizando o gerenciador de pacotes do python (pip).
 
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+
+OBS: Esse framework foi desenvolvido para algumas distribuições linux!
